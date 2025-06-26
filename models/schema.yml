@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: Temp_database
+    schema: Temp_database
+    database: handy-radio-462008-v8
+    tables:
+      - name: newTable
+      - name: customers_orders
